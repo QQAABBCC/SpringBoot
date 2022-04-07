@@ -3,10 +3,3 @@
 
 <jsp:include page="layout/default.jsp" />
 
-<p>文章~</p>
-
-<H1>金萱雙Q好好吃</H1>
-
-66666
-
-77777
