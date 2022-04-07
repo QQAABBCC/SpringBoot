@@ -47,7 +47,7 @@ public class ShopCartService {
 		return page;
 	}
 	
-	public shopCart getLastest() {
-		return shopCartDao.findFirstByOrderByAddedDesc();
-	}
+//	public shopCart getLastest() {
+//		return shopCartDao.findFirstByOrderByAddedDesc();
+//	}
 }
